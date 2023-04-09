@@ -1,0 +1,21 @@
+body {
+    background-color: #0E1513;
+}
+
+.container {
+    padding: 70px 20px;
+}
+
+.title {
+    font-size: 90px;
+}
+
+.text {
+    max-width: 800px; /* Ancho máximo deseado para el contenedor */
+  }
+
+  @media (max-width: 485px) {
+   .title{
+    font-size: 85px;
+   }
+}

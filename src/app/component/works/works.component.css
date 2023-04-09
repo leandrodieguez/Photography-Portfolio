@@ -1,0 +1,19 @@
+body {
+    background-color: #0E1513;
+}
+
+.container {
+    padding: 75px;
+}
+
+.title {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 45px;
+    line-height: 100%;
+}
+
+.works {
+    padding: 20px 0px;
+}
+

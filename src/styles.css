@@ -1,1 +1,24 @@
-/* You can add global styles to this file, and also import other style files */
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+a,h1,h2,h3,p {
+    color: #FC4308;
+}
+
+.btn-orange {
+    border-radius: 3px;
+    padding: 8px 16px 10px 16px;
+    background-color: transparent;
+    color: #FC4308;
+    border-color: #FC4308;
+  }
+
+.btn-orange:hover {
+    background-color: #fc450825;
+    box-shadow: #FC4308;
+}  
+
+  .name {
+    font-size: 48px;
+}
