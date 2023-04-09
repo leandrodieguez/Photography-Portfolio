@@ -1,11 +1,17 @@
 body {
-    background-image: linear-gradient(to right, #262D20, #313E2A, #18A0FB);
-
+     
+    background: linear-gradient(to top right,#262D20 ,#262D20, #313E2A, #18A0FB);
+    
 }
 
 a,h1,p {
     color: #FC4308;
 }
+
+.custom-toggler {
+    border-color: #FC4308;
+}
+
 
 .title {
     font-size: 100px;
